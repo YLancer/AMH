@@ -1,0 +1,51 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Script\Game_Scenes\MyDZPKScript.cs">
+    <Files>
+      <File FileName="Assets\Script\Login_Panle_Event\LoginSystemScript.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\netManager\Events\SocketEventHandle.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\Game_Scenes\PlayerItemScript.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\InitializationConfigScritp.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\netManager\Events\APIS.cs" Line="32" Column="29" />
+      <File FileName="Assets\Script\netManager\CustomSocket.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\pdkCard\pdkCardScript.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\Game_Scenes\Over_Game\SignalOverItemScript.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\Game_Scenes\MyMahjongScript.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\Game_Scenes\MyPDKScript.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\Game_Scenes\MyDNScript.cs" Line="133" Column="35" />
+      <File FileName="Assets\Script\Game_Scenes\MyDZPKScript.cs" Line="1616" Column="23" />
+      <File FileName="Assets\Script\utilTool\CommonEvent.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\Home_Panel_Event\ZhanjiPanelScript.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\Home_Panel_Event\ZhanjiRoomItemScript.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\Home_Panel_Event\ZhanjiItemScript.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\netManager\vo\HupaiResponseVo.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\netManager\vo\HupaiResponseItem.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\netManager\vo\TotalInfo.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\DZPKFinalOverScript.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\Game_Scenes\VoteScript.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\Game_Scenes\playBack\GamePlayBackScriptDZPK.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\Game_Scenes\playBack\GamePlayBackScriptPdk.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\Game_Scenes\Over_Game\GameOverScript.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\DNOverScript.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\Game_Scenes\FinalOverGame.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\utilTool\GlobalDataScript.cs" Line="1" Column="1" />
+      <File FileName="Assets\TipsScript_DN.cs" Line="27" Column="2" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="D:\工作\潮汕+斗牛+跑得快\client_0905\xingyu2_老界面_0831\Assets\Script\Game_Scenes\Over_Game\GameOverScript.cs" line="652" column="1" />
+      <Breakpoint file="D:\工作\潮汕+斗牛+跑得快\client_0905\xingyu2_老界面_0831\Assets\Script\Game_Scenes\MyDNScript.cs" line="305" column="26" />
+      <Breakpoint file="D:\工作\dezhoupuke\xingyu2_老界面_0831\Assets\Script\Game_Scenes\MyPDKScript.cs" line="1576" column="1" />
+      <Breakpoint file="D:\工作\dezhoupuke\xingyu2_老界面_0831\Assets\Script\Game_Scenes\MyPDKScript.cs" line="1609" column="1" />
+      <Breakpoint file="D:\工作\dezhoupuke\xingyu2_老界面_0831\Assets\Script\Game_Scenes\MyDZPKScript.cs" line="1184" column="1" />
+      <Breakpoint file="D:\工作\dezhoupuke\xingyu2_老界面_0831\Assets\Script\Login_Panle_Event\LoginSystemScript.cs" line="212" column="1" />
+      <Breakpoint file="D:\工作\dezhoupuke\xingyu2_老界面_0831\Assets\Script\Game_Scenes\playBack\GamePlayBackScriptDZPK.cs" line="526" column="1" />
+      <Breakpoint file="D:\工作\dezhoupuke\xingyu2_老界面_0831\Assets\Script\utilTool\DialogPanelScript.cs" line="35" column="1" />
+      <Breakpoint file="D:\工作\dezhoupuke\xingyu2_老界面_0831\Assets\Script\Home_Panel_Event\SettingScript.cs" line="120" column="1" />
+      <Breakpoint file="D:\工作\dezhoupuke\xingyu2_老界面_0831\Assets\Script\Game_Scenes\MyDNScript.cs" line="355" column="1" />
+      <Breakpoint file="D:\工作\dezhoupuke\xingyu2_老界面_0831\Assets\Script\Game_Scenes\MyDZPKScript.cs" line="1414" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
